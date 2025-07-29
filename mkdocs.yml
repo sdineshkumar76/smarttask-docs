@@ -1,0 +1,11 @@
+site_name: SmartTask Documentation
+site_description: Official documentation for SmartTask – a smart way to manage tasks and teams.
+site_author: Dinesh Singh
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - FAQ: faq.md
+  - Release Notes: release-notes.md
