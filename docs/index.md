@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+# Welcome to SmartTask Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+SmartTask is your smart companion for managing tasks, projects, and teams in one unified platform. This documentation will guide you through installation, usage, FAQs, and updates.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Whether you're a new user or an experienced one, you'll find helpful information to make the most of SmartTask.
+Let's get started
